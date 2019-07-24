@@ -1,2 +1,2 @@
 # ngWebConfig
-Customized Edit Properties for SharePoint WebPart in Angular Implementation
+Customized Edit Properties for SharePoint WebPart in Angular.Js Implementation
